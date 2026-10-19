@@ -2,6 +2,7 @@
 
 > A personal Indian stock market paper-trading simulator with a native Android app, deterministic trading engine, persistent portfolio ledger, and local-first architecture.
 
+[![CI](https://github.com/Rayhan-099/MarketMimic/actions/workflows/ci.yml/badge.svg)](https://github.com/Rayhan-099/MarketMimic/actions/workflows/ci.yml)
 [![Platform](https://img.shields.io/badge/Platform-Android%207.0%2B-brightgreen.svg)](https://developer.android.com)
 [![React Native](https://img.shields.io/badge/React%20Native-0.76.7-blue.svg)](https://reactnative.dev)
 [![Expo SDK](https://img.shields.io/badge/Expo%20SDK-52.0-black.svg)](https://expo.dev)
